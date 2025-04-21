@@ -1,1 +1,13 @@
 langchain-google-genai
+langchain-huggingface
+langchain-community
+langchain
+tavily-python
+fastapi[standard]
+unsloth
+vllm
+faiss-cpu
+pydantic
+datasets
+transformers
+python-dotenv
